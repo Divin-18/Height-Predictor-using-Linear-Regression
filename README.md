@@ -1,1 +1,1 @@
-# Height-Predictor-using-Linear-Regression
+# Height Predictor-using LinearRegression
